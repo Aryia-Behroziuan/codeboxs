@@ -1,0 +1,79 @@
+.content-one
+{
+     width: 1250px;
+     height: 800px;
+     background-color: rgba(255, 255, 255, 0);
+     margin-left: 10%;
+     border-radius: 25px;
+     margin-bottom: 20%;
+}
+.namefile
+{
+    width: 40%;
+    height: 4%;
+    background-color: rgb(26, 25, 32);
+    margin-top: 5%;
+    margin-right: 50%;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+    color: rgb(10, 10, 10);
+    font-family: Consolas, 'Courier New', monospace;
+    padding: 2px 0px 0px 15px;
+    background-color: white;
+}
+.code
+{
+     width: %;
+     height: 85%;
+     margin-bottom: 2%;
+     padding: 2px 10px 0px 30px;
+     background-color: rgb(255, 255, 255);
+}
+.code-content
+{
+     width: 100%;
+     height: 60px;
+     font-family: Consolas, 'Courier New', monospace;
+}
+.code-source
+{
+     color: rgb(29, 29, 29);
+     font-family: Consolas, 'Courier New', monospace;
+     font-size: 20px;
+     width: 100%;
+     border: none;
+     outline: none;
+     background-color: rgb(255, 255, 255);
+}
+.code1
+{
+     background-color: rgb(33, 33, 42);
+     color: white;
+}
+.content-one input[type="button"]
+{
+     border: none;
+     outline: none;
+     height: 40px;
+     background: rgb(45, 63, 255);
+     color: rgb(255, 255, 255);
+     font-size: 18px;
+     border: 10px solid rgb(45, 63, 255);
+     border-radius: 10px;
+     margin-left: 45;
+     margin-top: auto;
+}
+.content-one input[type="button"]:hover
+{
+border: none;
+     outline: none;
+     outline: none;
+     height: 40px;
+     background: rgb(188, 53, 251);
+     color: rgb(255, 255, 255);
+     font-size: 20px;
+     border: 10px solid rgb(188, 53, 251);
+     border-radius: 10px;
+}
